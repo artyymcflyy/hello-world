@@ -1,2 +1,2 @@
 # hello-world
-Starting fresh with getting into open-source developing
+This REPO was created as practice before diving into "committing" to open-source development.
